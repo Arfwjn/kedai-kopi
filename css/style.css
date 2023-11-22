@@ -288,7 +288,8 @@ body {
 }
 
 .menu p,
-.contact p {
+.contact p,
+.products p {
   text-align: center;
   max-width: 30rem;
   margin: auto;
